@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultiUsersChat-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultiUsersChat_master_jar</output-path>
+    <root id="archive" name="MultiUsersChat-master.jar">
+      <element id="module-output" name="MultiUsersChat-master" />
+    </root>
+  </artifact>
+</component>
